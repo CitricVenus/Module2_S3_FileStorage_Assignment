@@ -83,7 +83,7 @@ Private File
    - Ensured that all uploaded files were encrypted at rest.
 
 Accesing to private file using pre-signed URLs
-![](Test_using presignedur.PNG)
+![](Test_usingpresignedur.PNG)
      
 Role Policy
 ![](role_policy.PNG)
