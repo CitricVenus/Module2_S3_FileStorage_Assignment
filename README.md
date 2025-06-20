@@ -45,6 +45,7 @@ This assignment demonstrates the configuration and use of Amazon S3 for file sto
 4. **Testing Access**
    - Verified that public files were accessible via browser.
    - Private files returned **Access Denied** unless accessed by an authorized IAM role.
+     
 Bucket Policy
 ![](bucketpolicy.PNG)
 Folders
