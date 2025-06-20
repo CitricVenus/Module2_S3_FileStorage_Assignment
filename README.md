@@ -47,12 +47,14 @@ This assignment demonstrates the configuration and use of Amazon S3 for file sto
    - Private files returned **Access Denied** unless accessed by an authorized IAM role.
      
 Bucket Policy
-![](bucketpolicy.PNG)
+![](bucketpolicy.PNG)  
+
 Folders
-![](Capture.PNG)
+![](Capture.PNG)  
 
 Public File
-![Public file](public_file.PNG)
+![Public file](public_file.PNG)  
+
 Private File
 ![Private File](private_data.PNG)
 
@@ -81,6 +83,7 @@ Private File
    - Ensured that all uploaded files were encrypted at rest.
 Role Policy
 ![](role_policy.PNG)
+  
 Encryption
 ![](encryption.PNG)
 
