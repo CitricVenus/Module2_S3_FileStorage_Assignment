@@ -81,6 +81,7 @@ Private File
 4. **Encryption**
    - Enabled **SSE-S3** (Server-Side Encryption with Amazon S3 managed keys).
    - Ensured that all uploaded files were encrypted at rest.
+     
 Role Policy
 ![](role_policy.PNG)
   
