@@ -49,6 +49,10 @@ This assignment demonstrates the configuration and use of Amazon S3 for file sto
 ![](bucketpolicy.PNG)
 ![](Capture.PNG)
 
+
+![Public file](public_file.PNG)
+![Private File](private_data.PNG)
+
 ---
 
 ## 🛡️ Part 3: Manage File Storage and Security
@@ -87,5 +91,3 @@ This setup demonstrates how to:
 - Enable versioning and encryption for safety and compliance.
 - Generate pre-signed URLs to temporarily share private content.
 
-![](public_file.PNG)
-![](private_data.PNG)
