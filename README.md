@@ -45,12 +45,14 @@ This assignment demonstrates the configuration and use of Amazon S3 for file sto
 4. **Testing Access**
    - Verified that public files were accessible via browser.
    - Private files returned **Access Denied** unless accessed by an authorized IAM role.
-
+Bucket Policy
 ![](bucketpolicy.PNG)
+Folders
 ![](Capture.PNG)
 
-
+Public File
 ![Public file](public_file.PNG)
+Private File
 ![Private File](private_data.PNG)
 
 ---
@@ -76,8 +78,9 @@ This assignment demonstrates the configuration and use of Amazon S3 for file sto
 4. **Encryption**
    - Enabled **SSE-S3** (Server-Side Encryption with Amazon S3 managed keys).
    - Ensured that all uploaded files were encrypted at rest.
-
+Role Policy
 ![](role_policy.PNG)
+Encryption
 ![](encryption.PNG)
 
 ---
