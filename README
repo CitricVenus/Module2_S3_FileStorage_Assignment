@@ -73,8 +73,8 @@ This assignment demonstrates the configuration and use of Amazon S3 for file sto
    - Enabled **SSE-S3** (Server-Side Encryption with Amazon S3 managed keys).
    - Ensured that all uploaded files were encrypted at rest.
 
-![](role_policy.PNG)
-![](encryption.PNG)
+(role_policy.PNG)
+(encryption.PNG)
 
 ---
 
